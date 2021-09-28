@@ -1,0 +1,22 @@
+.seach-input {
+  padding: 10px;
+  border-radius: 100px;
+  margin: 5px;
+  border: none;
+  outline: none;
+  width: 200px;
+  color: dimgray;
+  font-weight: bold;
+}
+.seach-input::placeholder {
+  color: dimgray;
+  font-weight: bold;
+}
+.seach-button {
+  padding: 10px;
+  border-radius: 100px;
+  border: none;
+  font-weight: bold;
+  background-color: dimgray;
+  color: white;
+}
